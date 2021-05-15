@@ -1,7 +1,7 @@
 import requests
 from datetime import date
 import json
-state_districts= ["152","153"]
+state_districts= ["151","152"]
 
 usefull_centers_18 = []
 usefull_centers_45 = []
